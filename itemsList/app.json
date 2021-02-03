@@ -1,0 +1,12 @@
+{
+  "name": "itemsList",
+  "displayName": "itemsList",
+  "expo": {
+    "name": "itemsList",
+    "slug": "itemsList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
